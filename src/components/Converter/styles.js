@@ -146,7 +146,7 @@ export const BtnContainer = styled.div`
     margin-top: 0;
   }
 
-  @media screen and (max-width: 360px){
+  @media screen and (max-width: 375px){
     width: 180%;
     margin-top: 0.5rem;
     justify-content: center;

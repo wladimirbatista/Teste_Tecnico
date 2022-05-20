@@ -18,7 +18,7 @@ export const BackgroundImage = styled.main`
     margin-top: 4rem;
   }
 
-  @media screen and (max-width: 360px){
+  @media screen and (max-width: 375px){
     margin-top: 3rem;
   }
 
@@ -59,7 +59,7 @@ export const OpacityContainer = styled.div`
     height: 27vh;
   }
 
-  @media screen and (max-width: 360px){
+  @media screen and (max-width: 375px){
     width: 90%;
     top: 30%;
     left: 5%;
@@ -79,7 +79,7 @@ export const BtnLink = styled.a`
   text-decoration: none;
   align-items: center;
 
-  @media screen and (max-width: 360px){
+  @media screen and (max-width: 375px){
     font-size: 14px;
     height: 40px;
   }
@@ -129,7 +129,7 @@ export const ParagrafContainer = styled.div`
     }
   }
 
-  @media screen and (max-width: 360px){
+  @media screen and (max-width: 375px){
     margin-bottom: 1rem;
     h1{
       font-size: 22px;
@@ -150,7 +150,7 @@ export const FirstSection = styled.section`
   height: 35vh;
   flex-wrap: wrap;
 
-  @media screen and (max-width: 360px) {
+  @media screen and (max-width: 375px) {
     height: 110vh;
   }
 `
@@ -170,7 +170,7 @@ export const Container = styled.div`
     width: 27%;
   }
 
-  @media screen and (max-width: 360px){
+  @media screen and (max-width: 375px){
     width: 100%;
     flex-wrap: wrap;
   }
@@ -214,7 +214,7 @@ export const Box = styled.div`
     }
   }
 
-  @media screen and (max-width: 360px){
+  @media screen and (max-width: 375px){
     p{
       width: 290px;
     }
@@ -234,7 +234,7 @@ export const SecondSection = styled.section`
     height: 30vh;
   }
 
-  @media screen and (max-width: 360px) {
+  @media screen and (max-width: 375px) {
     height: 90vh;
   }
 `
@@ -286,7 +286,7 @@ export const TextContainer = styled.div`
     }
   }
 
-  @media screen and (max-width: 360px) {
+  @media screen and (max-width: 375px) {
     width: 90%;
     margin-left: 1.5rem;
     margin-top: 0.5rem;
